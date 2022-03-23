@@ -1,0 +1,54 @@
+1:54:49 PM: Executing ':App.main()'...
+
+> Task :compileJava UP-TO-DATE
+> Task :processResources NO-SOURCE
+> Task :classes UP-TO-DATE
+
+> Task :App.main()
+Driver is loaded
+Database is connected
+Driver is loaded
+1	piyush	M	1200.0	2021-11-30	null	india		null	null	null	null
+2	parvez	null	12000.0	2020-09-21	null	india	sales and marketing 	null	null	null	null
+3	priyanka	null	5263.0	2016-05-04	null	india	sales and marketing 	null	null	null	null
+4	sheetal	null	78965.0	2012-05-07	null	india	sales and marketing 	null	null	null	null
+5	kaynat	null	7412.0	2016-01-06	null	india	sales and marketing 	null	null	null	null
+6	pankaj	F	1000000.0	2008-07-10	null	india	sales and marketing 	null	null	null	null
+7	nikhil	F	8500.0	2018-06-21	null	india	sales and marketing 	null	null	null	null
+8	ramit	F	78512.0	2019-07-27	null	india	sales and marketing 	null	null	null	null
+9	ram	M	789654.0	2020-05-06	9910936991	tpoint faridabad	sales and marketing 	7412.0	8500.0	5632.0	4521.0
+10	sham	M	489654.0	2022-04-06	999098989	cpoint faridabad	sales and marketing 	5412.0	9500.0	4632.0	2521.0
+11	priya	F	7489654.0	2019-01-21	9089787675	vpoint faridabad	sales and marketing 	6412.0	1500.0	3632.0	5521.0
+12	akbar	M	589654.0	2002-05-06	9898987767	gpoint faridabad	sales and marketing 	5412.0	5500.0	1632.0	5521.0
+Driver is loaded
+Driver is loaded
+Driver is loaded
+1	piyush	M	1200.0	2021-11-30	null	india		null	null	null	null
+2	parvez	null	12000.0	2020-09-21	null	india	sales and marketing 	null	null	null	null
+3	priyanka	null	5263.0	2016-05-04	null	india	sales and marketing 	null	null	null	null
+5	kaynat	null	7412.0	2016-01-06	null	india	sales and marketing 	null	null	null	null
+7	nikhil	F	8500.0	2018-06-21	null	india	sales and marketing 	null	null	null	null
+8	ramit	F	78512.0	2019-07-27	null	india	sales and marketing 	null	null	null	null
+9	ram	M	789654.0	2020-05-06	9910936991	tpoint faridabad	sales and marketing 	7412.0	8500.0	5632.0	4521.0
+11	priya	F	7489654.0	2019-01-21	9089787675	vpoint faridabad	sales and marketing 	6412.0	1500.0	3632.0	5521.0
+Driver is loaded
+1870162.0
+467540.5
+1200.0
+789654.0
+4
+8576666.0
+2144166.5
+8500.0
+7489654.0
+4
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 8.0.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+See https://docs.gradle.org/7.1.1/userguide/command_line_interface.html#sec:command_line_warnings
+
+BUILD SUCCESSFUL in 1s
+2 actionable tasks: 1 executed, 1 up-to-date
+1:54:51 PM: Execution finished ':App.main()'.
