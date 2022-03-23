@@ -23,6 +23,5 @@ public class UC1 {
             System.out.println("database is not connected");
 
         }
-
     }
 }
