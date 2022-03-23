@@ -11,9 +11,7 @@ public class UC3 {
             Statement statement=connection.createStatement();
             statement.executeUpdate(updateQuery);
         } catch (SQLException e) {
-            // TODO Auto-generated catch block
             e.printStackTrace();
         }
-
     }
 }
